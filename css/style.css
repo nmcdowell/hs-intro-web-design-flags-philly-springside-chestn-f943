@@ -96,25 +96,59 @@ background-color: blue;
 
 /* Chad */
 #chad div {
-  height: 300px;
-  width: 175px;
+  height: 350px;
+  width: 250px;
 }
-.blueleft {
+#blueleft {
   background-color: blue;
   float: left;
  }
-.yellowcenter {
+#yellowcenter {
   background-color: yellow;
-  
-
-}
-.redright {
+  float: left;
+  }
+#redright {
   background-color:red;
-  float:right;
+  float: left;
 }
 /* France */
+#france div {
+  height: 350px;
+  width: 250px;
+}
 
+#redfrenchright {
+  background-color: red;
+  float: right;
+}
+#bluefrenchleft {
+  background-color: blue;
+  float: left;
+  margin-right: 250px;
+}
 /* Benin */
+#benin div {
+
+}
+
+#greenbenin {
+  float: left;
+  background-color: green;
+  height: 350px;
+  width: 275px;
+}
+#redbenin {
+  background-color: red;
+  height: 175px;
+  width: 525px;
+  float: right;
+}
+#yellowbenin {
+  background-color: yellow;
+   height: 175px;
+  width: 525px;
+  float: right;
+}
 
 /* UAE */
 
